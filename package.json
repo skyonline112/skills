@@ -1,0 +1,14 @@
+{
+  "name": "git-commit-helper",
+  "version": "1.0.0",
+  "description": "AI가 변경 사항을 분석하여 Conventional Commits 표준에 맞는 Git 커밋 메시지를 생성하는 스킬",
+  "main": "SKILL.md",
+  "keywords": [
+    "git",
+    "commit",
+    "agent",
+    "skill"
+  ],
+  "author": "skyonline112",
+  "license": "MIT"
+}

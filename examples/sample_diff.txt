@@ -1,0 +1,10 @@
+diff --git a/app.js b/app.js
+index e69de29..d3b0738 100644
+--- a/app.js
++++ b/app.js
+@@ -0,0 +1,5 @@
++const express = require('express');
++const app = express();
++
++app.get('/', (req, res) => res.send('Hello World!'));
++app.listen(3000, () => console.log('Server is running on port 3000'));
